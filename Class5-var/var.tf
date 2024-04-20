@@ -1,6 +1,6 @@
 variable region {
     type = string
-    description = "Provide rgion"
+    description = "Provide region"
 }
 
 variable vpc_cidr{
